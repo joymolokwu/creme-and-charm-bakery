@@ -1,25 +1,24 @@
-# Student Portal Website
+# Hi, I'm Joy Molokwu 👋
 
-## Overview
+## Business Data Analytics Graduate
 
-This project is a responsive student portal website developed using HTML, CSS, and JavaScript.
+I'm passionate about business analytics, customer experience, and web development. I enjoy building practical projects that solve real business problems.
 
-The website demonstrates front-end web development skills, including responsive design, user-friendly layouts, and interactive web components.
+### Skills
 
-## Features
+- Python
+- SQL
+- Power BI
+- Microsoft Excel
+- Tableau
+- HTML, CSS & JavaScript
 
-- Responsive design
-- Login page
-- Student dashboard
-- Clean and modern interface
-- Mobile-friendly layout
+### Featured Projects
 
-## Technologies
+📊 Customer Feedback Sentiment Analysis (NLP)
 
-- HTML5
-- CSS3
-- JavaScript
+🧁 Crème & Charm Bakery Website
 
-## Author
+🗃️ SQL Business Analysis
 
-Joy Molokwu
+📍 Hanoi, Vietnam
